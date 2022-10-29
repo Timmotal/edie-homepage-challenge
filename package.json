@@ -1,0 +1,43 @@
+{
+  "devDependencies": {
+    "sass": "^1.55.0"
+  },
+  "name": "edie-homepage-challenge",
+  "description": "<!-- Please update value in the {}  -->",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "anymatch": "^3.1.2",
+    "binary-extensions": "^2.2.0",
+    "chokidar": "^3.5.3",
+    "braces": "^3.0.2",
+    "fill-range": "^7.0.1",
+    "glob-parent": "^5.1.2",
+    "is-binary-path": "^2.1.0",
+    "immutable": "^4.1.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.1",
+    "readdirp": "^3.6.0",
+    "to-regex-range": "^5.0.1",
+    "source-map-js": "^1.0.2"
+  },
+  "scripts": {
+    "compile:sass": "sass --watch styles/scss:styles/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timmotal/edie-homepage-challenge.git"
+  },
+  "keywords": [
+    "edie-homepage-challenge\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Timmortal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timmotal/edie-homepage-challenge/issues"
+  },
+  "homepage": "https://github.com/Timmotal/edie-homepage-challenge#readme"
+}
